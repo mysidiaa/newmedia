@@ -1,2 +1,2 @@
-# newmedia
-new media certificate
+# New Media Certificate
+Spring 2021
