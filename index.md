@@ -8,15 +8,20 @@ You can use the [editor on GitHub](https://github.com/mysidiaa/newmedia/edit/gh-
 
 Using SwiftUI to master the art of application design and functionality, 
 NMIX 4310 is a class that provides rigor and challenges creativity to 
-help students develop their skills even further. 
+help students develop their skills even further. <about what i learned>
 
 ```
 
 ## Projects
 
 ### **skincair**
-[Link](https://youtu.be/nJUcIRq1zWY) and ![Image](src)
+[Project Demo](https://youtu.be/nJUcIRq1zWY) and ![Image](src)
+
+<project description goes here> 
 
 ### **healthee**
 
-[Link](url) and ![Image](src)
+[Project Demo](url) and ![Image](src)
+
+<project description goes here>
+  
