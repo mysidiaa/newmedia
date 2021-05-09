@@ -12,13 +12,13 @@ help students develop their skills even further.
 
 ```
 
-## Projects
+### Projects
 ```markdown
 
-- **skincair**
+#### **skincair**
 [Link](https://youtu.be/nJUcIRq1zWY) and ![Image](src)
 
-- **healthee**
+#### **healthee**
 
 [Link](url) and ![Image](src)
 ```
