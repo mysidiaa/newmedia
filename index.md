@@ -1,8 +1,8 @@
-## Rich Media Production
+# Rich Media Production
 
 You can use the [editor on GitHub](https://github.com/mysidiaa/newmedia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Reflection
+## Reflection
 
 ```markdown
 
@@ -12,13 +12,13 @@ help students develop their skills even further.
 
 ```
 
-### Projects
+## Projects
 ```markdown
 
-#### **skincair**
+### **skincair**
 [Link](https://youtu.be/nJUcIRq1zWY) and ![Image](src)
 
-#### **healthee**
+### **healthee**
 
 [Link](url) and ![Image](src)
 ```
