@@ -13,7 +13,6 @@ help students develop their skills even further.
 ```
 
 ## Projects
-```markdown
 
 ### **skincair**
 [Link](https://youtu.be/nJUcIRq1zWY) and ![Image](src)
@@ -21,4 +20,3 @@ help students develop their skills even further.
 ### **healthee**
 
 [Link](url) and ![Image](src)
-```
