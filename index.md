@@ -15,7 +15,7 @@ help students develop their skills even further. <about what i learned>
 ### _skincair_
 [Project Demo](https://youtu.be/nJUcIRq1zWY) and ![Image](src)
 
-<project description goes here> 
+project description goes here
   
 
 ### _healthee_
