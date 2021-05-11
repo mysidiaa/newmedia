@@ -20,7 +20,7 @@ help students develop their skills even further. <about what i learned>
 
 ### _healthee_
 
-[Project Demo](url) and ![Image](src)
+[Project Demo](url) and ![Image](healtheepic.png)
 
 <project description goes here>
   
