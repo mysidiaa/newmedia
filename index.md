@@ -30,7 +30,7 @@ about it! I hope you enjoy viewing my app and have found it helpful in some way!
 
 ### Wireframes: 
 
-![skincair](skincairpic.png width=270) ![skincair1](skincairpic1.png width=270) ![skincair2](skincairpic2.png width=270) ![skincair3](skincairpic3.png width=270)
+![skincair](skincairpic.png) ![skincair1](skincairpic1.png) ![skincair2](skincairpic2.png) ![skincair3](skincairpic3.png)
 
 
   
