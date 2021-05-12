@@ -13,14 +13,21 @@ help students develop their skills even further. <about what i learned>
 ## Projects
 
 ### _skincair_
-[Project Demo](https://youtu.be/nJUcIRq1zWY) and ![Image](src)
+[Project Demo](https://youtu.be/nJUcIRq1zWY)
 
-project description goes here
+project description
+
+![Wireframes](skincairpic.png)
+
+
   
 
 ### _healthee_
 
-[Project Demo](url) and ![Image](healtheepic.png)
+[Project Demo](url) 
 
-<project description goes here>
-  
+project description
+
+![Wireframes](healtheepic.png)
+
+
