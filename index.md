@@ -2,8 +2,6 @@
 
 # Reflection
 
-```markdown
-
 Using SwiftUI to master the art of application design and functionality, 
 NMIX 4310 is a class that provides rigor and challenges creativity to 
 help students develop their skills even further. I really enjoyed 
@@ -16,7 +14,7 @@ application base, we additionally learned the challenges and the rigor
 most app developers encounter when creating any type of mobile 
 application. 
 
-```
+
 
 # Projects
 
