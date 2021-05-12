@@ -1,6 +1,6 @@
 # Rich Media Production
 
-## Reflection
+# Reflection
 
 ```markdown
 
@@ -10,27 +10,27 @@ help students develop their skills even further. <about what i learned>
 
 ```
 
-## Projects
+# Projects
 
-### _skincair_
+## _skincair_
 [Project Demo](https://youtu.be/nJUcIRq1zWY)
 
 project description
 
-# Wireframes: 
+### Wireframes: 
 
 ![skincair](skincairpic.png) ![skincair1](skincairpic1.png) ![skincair2](skincairpic2.png) ![skincair3](skincairpic3.png)
 
 
   
 
-### _healthee_
+## _healthee_
 
 [Project Demo](url) 
 
 project description
 
-# Wireframes:
+### Wireframes:
 
 ![healthee](healtheepic.png) ![healthee2](healtheepic2.png)
 
