@@ -6,14 +6,15 @@
 
 Using SwiftUI to master the art of application design and functionality, 
 NMIX 4310 is a class that provides rigor and challenges creativity to 
-help students develop their skills even further. I really enjoyed learning
-more about the process of application development and different ways that I 
-can implement my programming knowledge into an application form. The biggest
-aspect of this course that I truly loved doing was having the creative 
-freedomto design and create applications. Not only do students learn how 
-to incorporate their creativity into an application base, we additionally 
-learned the challenges and the rigor most app developers encounter when 
-creating any type of mobile application. 
+help students develop their skills even further. I really enjoyed 
+learningmore about the process of application development and different 
+ways that I can implement my programming knowledge into an application 
+form. The biggest aspect of this course that I truly loved doing was 
+having the creative freedomto design and create applications. Not only 
+do students learn how to incorporate their creativity into an 
+application base, we additionally learned the challenges and the rigor 
+most app developers encounter when creating any type of mobile 
+application. 
 
 ```
 
