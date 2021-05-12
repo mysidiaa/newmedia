@@ -17,7 +17,9 @@ help students develop their skills even further. <about what i learned>
 
 project description
 
-![Wireframes](skincairpic.png)
+# Wireframes: 
+
+![skincair](skincairpic.png) ![skincair1](skincairpic1.png) ![skincair2](skincairpic2.png) ![skincair3](skincairpic3.png)
 
 
   
@@ -28,6 +30,8 @@ project description
 
 project description
 
-![Wireframes](healtheepic.png)
+# Wireframes:
+
+![healthee](healtheepic.png) ![healthee2](healtheepic2.png)
 
 
