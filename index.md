@@ -1,4 +1,4 @@
-# Rich Media Production
+# Rich Media Production (NMIX 4310)
 
 # Reflection
 
@@ -6,14 +6,21 @@
 
 Using SwiftUI to master the art of application design and functionality, 
 NMIX 4310 is a class that provides rigor and challenges creativity to 
-help students develop their skills even further. <about what i learned>
+help students develop their skills even further. I really enjoyed learning
+more about the process of application development and different ways that I 
+can implement my programming knowledge into an application form. The biggest
+aspect of this course that I truly loved doing was having the creative 
+freedomto design and create applications. Not only do students learn how 
+to incorporate their creativity into an application base, we additionally 
+learned the challenges and the rigor most app developers encounter when 
+creating any type of mobile application. 
 
 ```
 
 # Projects
 
 ## _skincair_
-[Project Demo](https://youtu.be/nJUcIRq1zWY)
+[Project Demo on YouTube](https://youtu.be/nJUcIRq1zWY)
 
 Skincair provides skincare recommendations based on your skin type! I 
 struggled with acne growing up and still do, but I know my skin is getting 
@@ -37,7 +44,7 @@ about it! I hope you enjoy viewing my app and have found it helpful in some way!
 
 ## _healthee_
 
-[Project Demo](url) 
+[Project Demo on YouTube](https://youtu.be/FDBkm4AcsHk) 
 
 This app is called "Healthee". I was inspired by the FitBit app that 
 helped me track how much I have walked and how much sleep that I get 
